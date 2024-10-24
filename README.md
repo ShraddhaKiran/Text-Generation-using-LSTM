@@ -35,7 +35,9 @@ During training, the model learns to predict the next character in a sequence ba
 
 After the model is trained, it can generate text by starting with an initial character or sequence and predicting the next characters one by one. The model learns patterns from the training data and uses these to continue the sequence, creating new text that follows the learned structure. You can input any starting sequence, and the model will build on it to generate text automatically
 
+# Results
 
+Once trained, the model is capable of generating coherent text sequences based on the input data. The generated text reflects patterns learned from the training dataset. The model's ability to generate coherent text improves as training progresses, producing more meaningful sequences over time.
 
 
 
